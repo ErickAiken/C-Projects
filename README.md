@@ -1,2 +1,2 @@
-# C-Projects
+# C++ Projects
 Collection of C++ projects
